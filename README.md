@@ -8,6 +8,6 @@
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
 <a href="https://vk.com/mr__vik">
-  <img src="https://img.shields.io/badge/Vk-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  <img src="https://img.shields.io/badge/вконтакте-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
 </a>
 </div>
