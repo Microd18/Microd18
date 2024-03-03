@@ -26,7 +26,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<div id ="Tools1" align="center">
+<div id ="Tools1" align="left">
   <h3>Языки и технологии</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
   title="java" width="60" height="60"/>&nbsp
@@ -36,7 +36,7 @@
   title="postgre" width="60" height="60"/>&nbsp
 </div>
 
-<div id ="Tools2" align="center">
+<div id ="Tools2" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
   title="postman" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
@@ -45,7 +45,7 @@
   title="docker" width="60" height="60"/>&nbsp
 </div>
 
-<div id ="Tools3" align="center">
+<div id ="Tools3" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
   title="github" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
