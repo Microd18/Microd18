@@ -58,7 +58,7 @@
 <br/><br/>
 
 <div id="stat" align="right">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Microd18&theme=default"width="800"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Microd18&theme=default"width="830"/>
 </div>
 
 
