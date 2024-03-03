@@ -18,27 +18,27 @@
 <div id ="Tools1" align="center">
   <h3>Languages and tools</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-  title="java" width="60" height="60"/>
+  title="java" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-  title="spring" width="56" height="56"/>
+  title="spring" width="56" height="56"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
-  title="postgre" width="60" height="60"/>
+  title="postgre" width="60" height="60"/>&nbsp
 </div>
 <div id ="Tools2" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-  title="postman" width="58" height="58"/>
+  title="postman" width="58" height="58"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
-  title="intellij" width="60" height="60"/>
+  title="intellij" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
-  title="docker" width="60" height="60"/>
+  title="docker" width="60" height="60"/>&nbsp
 </div>
 <div id ="Tools3" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
-  title="github" width="60" height="60"/>
+  title="github" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"
-  title="linux" width="60" height="60"/>
+  title="linux" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
-  title="notion" width="60" height="60"/>
+  title="notion" width="60" height="60"/>&nbsp
 </div>
 
 
