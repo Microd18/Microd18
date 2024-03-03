@@ -31,14 +31,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
   title="java" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-  title="spring" width="56" height="56"/>&nbsp
+  title="spring" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
   title="postgre" width="60" height="60"/>&nbsp
 </div>
 
 <div id ="Tools2" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
-  title="postman" width="58" height="58"/>&nbsp
+  title="postman" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
   title="intellij" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
