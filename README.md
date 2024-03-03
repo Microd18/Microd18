@@ -33,8 +33,11 @@
   title="linux" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
   title="notion" width="40" height="40"/>&nbsp;
+</div>
 
 
+<div id="stat" align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Microd18&theme=apprentice"/>
 </div>
 
 
