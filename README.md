@@ -16,7 +16,7 @@
 
 
 <div id ="Tools1" align="center">
-  <h3>Languages and tools</h3>
+  <h3>Языки и технологии</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
   title="java" width="60" height="60"/>&nbsp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
