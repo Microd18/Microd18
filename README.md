@@ -12,8 +12,19 @@
 </a>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+<br/><br/>
+### Обо мне:
 
+:desktop_computer: Пишу код каждый день <br/>
+:chart_with_upwards_trend: Постоянно изучаю что-то новое  <br/>
+:handshake: Всегда рад пообщаться и ответить на вопросы <br/>
+:briefcase: Открыт к предложениям по работе <br/>
+:postbox: [Почта](mailto:Microd@inbox.ru) <br/>
+
+<br/><br/>
+
+
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 <div id ="Tools1" align="center">
   <h3>Языки и технологии</h3>
@@ -24,6 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
   title="postgre" width="60" height="60"/>&nbsp
 </div>
+
 <div id ="Tools2" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"
   title="postman" width="58" height="58"/>&nbsp
@@ -32,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"
   title="docker" width="60" height="60"/>&nbsp
 </div>
+
 <div id ="Tools3" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
   title="github" width="60" height="60"/>&nbsp
@@ -40,7 +53,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg"
   title="notion" width="60" height="60"/>&nbsp
 </div>
-
 
 <div id="stat" align="right">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Microd18&theme=default"width="800"/>
