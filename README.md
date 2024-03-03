@@ -26,6 +26,8 @@
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="280" />
 
+<br/><br/>
+
 <div id ="Tools1" align="left">
   <h3>Языки и технологии</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
