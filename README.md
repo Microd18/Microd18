@@ -55,6 +55,8 @@
   title="notion" width="60" height="60"/>&nbsp
 </div>
 
+<br/>
+
 <div id="stat" align="right">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Microd18&theme=default"width="800"/>
 </div>
