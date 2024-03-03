@@ -24,7 +24,7 @@
 <br/><br/>
 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="250" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="280" />
 
 <div id ="Tools1" align="left">
   <h3>Языки и технологии</h3>
