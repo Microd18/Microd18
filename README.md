@@ -13,6 +13,7 @@
 </div>
 
 <br/>
+
 ### Обо мне:
 
 :desktop_computer: Пишу код каждый день. <br/>
@@ -21,7 +22,7 @@
 :briefcase: Открыт к предложениям по работе. <br/>
 :postbox: [Почта.](mailto:Microd@inbox.ru) <br/>
 
-<br/><br/>
+<br/>
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="290" />
 
