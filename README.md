@@ -19,7 +19,6 @@
 :desktop_computer: Пишу код каждый день. <br/>
 :chart_with_upwards_trend: Постоянно изучаю что-то новое.  <br/>
 :handshake: Всегда рад пообщаться и ответить на вопросы. <br/>
-:briefcase: Открыт к предложениям по работе. <br/>
 :postbox: [Почта.](mailto:Microd@inbox.ru) <br/>
 
 <br/><br/>
